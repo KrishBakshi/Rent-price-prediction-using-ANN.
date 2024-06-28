@@ -1,4 +1,4 @@
-# Property-price-prediction-using-ANN.
+# Rent-price-prediction-using-ANN.
 <a href = "https://github.com/KrishBakshi/Property-price-prediction-using-ANN">
 <img src="https://static.vecteezy.com/system/resources/previews/013/699/452/non_2x/real-estate-building-and-home-property-logo-design-concept-illustration-vector.jpg" width="300"></a>
 <br>
